@@ -1,0 +1,11 @@
+C:\Users\mhael\source\repos\lab021\lab021\obj\Debug\lab02.csproj.AssemblyReference.cache
+C:\Users\mhael\source\repos\lab021\lab021\obj\Debug\Lab021.Form1.resources
+C:\Users\mhael\source\repos\lab021\lab021\obj\Debug\lab021.Properties.Resources.resources
+C:\Users\mhael\source\repos\lab021\lab021\obj\Debug\lab02.csproj.GenerateResource.cache
+C:\Users\mhael\source\repos\lab021\lab021\obj\Debug\lab02.csproj.CoreCompileInputs.cache
+C:\Users\mhael\source\repos\lab021\lab021\bin\Debug\lab021.exe.config
+C:\Users\mhael\source\repos\lab021\lab021\bin\Debug\lab021.exe
+C:\Users\mhael\source\repos\lab021\lab021\bin\Debug\lab021.pdb
+C:\Users\mhael\source\repos\lab021\lab021\obj\Debug\lab021.exe
+C:\Users\mhael\source\repos\lab021\lab021\obj\Debug\lab021.pdb
+C:\Users\mhael\source\repos\lab021\lab021\obj\Debug\lab021.Form2.resources
